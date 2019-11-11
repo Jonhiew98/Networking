@@ -1,0 +1,11 @@
+﻿  MyPhoton.cpp
+c:\users\user\desktop\tictactoe\hellophoton\myphoton.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\tictactoe\hellophoton\myphoton.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+c:\users\user\desktop\tictactoe\hellophoton\main.cpp(58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\tictactoe\hellophoton\main.cpp(126): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\tictactoe\hellophoton\main.cpp(244): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\tictactoe\hellophoton\main.cpp(350): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\tictactoe\hellophoton\main.cpp(411): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  HelloPhoton.vcxproj -> C:\Users\user\Desktop\TicTacToe\Debug\HelloPhoton.exe
